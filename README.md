@@ -6,8 +6,9 @@ Adapted from DAPS: https://github.com/zhangbingliang2019/DAPS
 
 Author: Jamin Xie
 
-## Paper and Poster
+## Paper and Poster:
 Paper: `PS_HDR.pdf`
+
 Poster: `PS_HDR_Poster.pdf`
 
 ## Notes:
