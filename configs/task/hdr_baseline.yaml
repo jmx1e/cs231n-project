@@ -1,0 +1,27 @@
+# pixel space task
+pixel:  
+  operator:
+    name: hdr_baseline
+    scale: 2
+    sigma: 0.05
+
+# pixel space task with hmc
+pixel_hmc:
+  operator:
+    name: hdr_baseline
+    scale: 2
+    sigma: 0.05
+
+# latent diffusion model
+ldm:
+  operator:
+    name: hdr_baseline
+    scale: 2
+    sigma: 0.05
+
+# stable diffusion
+sd:  
+  operator:
+    name: hdr_baseline
+    scale: 2
+    sigma: 0.01
